@@ -1,0 +1,5 @@
+For this project you must have the following downloaded:
+-Python
+-pip
+
+Then install pyshorteners and install clipboard
